@@ -29,9 +29,12 @@ Users should be able to:
 ###
 -Desktop View
 
-![](./design/screenshot_desktop.png)
+![]
+
+(./design/screenshot_desktop.png)
 
 -Mobile View
+
 ![](./design/screenshot_mobile.png)
 
 ### Links
