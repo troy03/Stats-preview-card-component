@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://troy03.github.io/Stats-preview-card-component/)
+- Solution URL: [Solution URL here](https://github.com/troy03/Stats-preview-card-component)
+- Live Site URL: [Live site URL here](https://troy03.github.io/Stats-preview-card-component/)
 
 ## My process
   First I design this project as mobile-first approach and use semantic design
